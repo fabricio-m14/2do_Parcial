@@ -1,0 +1,55 @@
+Selección múltiple
+
+Diccionarios 
+
+1. Verdadero
+2. Verdadero
+3. Falso, desde Python 3.7 los diccionarios mantienen el orden de inserción, es decir, se mantiene el orden de como está escrito sin necesidad de .sorted().
+4. Verdadero
+5. Falso, ya hemos Verdaderoisto en el código del Fragmento 3, Parte_C que un diccionario puede contener otro diccionario y relacionarse con una claVerdaderoe distinta uno del otro.
+6. Verdadero
+
+Tuplas
+
+1. Falso, la característica principal de las tuplas es su inmutabilidad.
+2. Verdadero 
+3. Verdadero 
+4. Verdadero 
+5. Falso, ocupan menos espacio en memoria por su inmutabilidad.
+6. Verdadero 
+
+Conjuntos(set)
+
+1. Falso, los conjuntos eliminan los duplicados automáticamente.
+2. Verdadero
+3. Verdadero
+4. Falso, los conjuntos no tienen índices, solo elementos.
+5. Verdadero
+6. Falso, los conjuntos no garantizan ningún orden específico.
+
+Matrices
+
+1. Verdadero
+2. Verdadero
+3. Falso, Python no tiene un tipo nativo llamado matrix, se simulan con listas de listas.
+4. Falso, se recorren perfectamente con for anidados.
+5. Falso, pueden contener cualquier tipo de datos.
+6. Verdadero
+
+Manejo de archivos
+
+1. Verdadero
+2. Verdadero
+3. Verdadero
+4. Falso, es lo contrario. La característica principal es la persistencia de los mismos.
+5. Verdadero
+6. Falso, los archivos pueden almacenar texto, JSON, imágenes, binarios, etc.
+
+Funciones como ciudadanos de primera clase
+
+1. Verdadero
+2. Verdadero
+3. Verdadero
+4. Falso, al guardarse en una variable, pueden ejecutarse también desde esa variable.
+5. Falso, pueden guardarse en listas, diccionarios, etc.
+6. Verdadero
